@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a8f4301fce4b2243ad32a3289446fb2, type: 3}
+  m_Name: AudioClipRefsSO
+  m_EditorClassIdentifier: 
+  BritishFemale:
+  - {fileID: 8300000, guid: f767ec054fc4e7d478e9dcb867612ab7, type: 3}
+  - {fileID: 8300000, guid: 9c8976b7adb3a0e4b8f42d0991917f0c, type: 3}
+  - {fileID: 8300000, guid: f98f09b2f85b19542bf32b63a179a478, type: 3}
+  - {fileID: 8300000, guid: e45f7890db9ac1b4e83b6a26fa02d8ad, type: 3}
+  - {fileID: 8300000, guid: 86f45b1a28e8f5840a56283479a2a4fb, type: 3}
+  - {fileID: 8300000, guid: fc20d99ecca8e1d43910e2c157b823f2, type: 3}
+  - {fileID: 8300000, guid: 0e239cbda9c4d6248ad4508d98f61ef9, type: 3}
+  - {fileID: 8300000, guid: 5d269bbabb45972429117b9c8577a240, type: 3}
