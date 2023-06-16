@@ -17,7 +17,7 @@ public class SoundManager : MonoBehaviour {
     }
 
     public void PlaySound(AudioClipRefsSO audioClipRefsSO, int index) {
-        AudioSource.PlayClipAtPoint(audioClipRefsSO.BritishFemale[index], Vector3.zero);
+        AudioSource.PlayClipAtPoint(audioClipRefsSO.BritishFemale[index], Camera.main.transform.position);
     }
 
     public void ChangeVolume() {
